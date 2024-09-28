@@ -1,4 +1,3 @@
-<!-- Trungquandev -->
 <a href="#" target="_blank">
   <img src="svg/trucquindev.svg" width="1200" alt="trucquindev" />
 </a>
