@@ -1,7 +1,9 @@
-<a href="#" target="_blank">
-  <img src="svg/trucquindev.svg" width="1200" alt="trucquindev" />
-</a>
-
+<h1 align="center">Hey Everyone 👋, I'm Nguyen Truc Quynh</h1>
+<h3 align="center">🧩 I'm Frontend Developer from Vietnam. Life is like a while(true) loop: fix bug → deploy → new bug appears 🤯</h3>
+<div align="center">
+  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</div>
+<br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -71,6 +73,13 @@
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<a href="#" target="_blank">
+<div align="center">
+  <a href="#" target="_blank">
   <img src="svg/trucquindev-quotes.svg" width="846" height="150" alt="trucquindev-mot-lap-trinh-vien-mern-stack-advanced" />
-</a>
+  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  </picture>
+</div>
